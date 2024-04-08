@@ -10,7 +10,7 @@
 - [Exploratory Data Analysis](#exploratory_data_analysis)
 - [Data Analysis](#data_analysis)
 - [Results/Findings](#results/findings)
-- [REcommendations](#recommendations)
+- [Recommendations](#recommendations)
 ### Project Overview
 
 
