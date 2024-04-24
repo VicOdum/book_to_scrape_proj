@@ -1,4 +1,4 @@
-# Data Scraping
+# Data Scraping Project
 ## Scraping data from bookstoscrape.com
 
 
@@ -64,10 +64,12 @@ df.to_csv('books.csv')
 ```
 
 ### Results/Findings
+![image](https://github.com/VicOdum/book_to_scrape_proj/assets/158152192/ed0ebb58-a8cc-4515-a010-0c23555db122)
+
 
 ### Recommendations
 
 ### Limitations
-- Some cells in the excel where empty so I had to remove
+- This was just a data scraping project, however, there would be need for further data cleaning which is beyond the scope of this project.
 
 ### References
