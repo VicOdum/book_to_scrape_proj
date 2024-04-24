@@ -2,36 +2,31 @@
 ## Scraping data from bookstoscrape.com
 
 
-## Table of Content 
+## Table of Content
 - [Project Overview](#project_overview)
 - [Data Sources](#data_sources)
 - [Tools Used](#tools_used)
-- [Data Cleaning/Preparation](#data_cleaning/preparation)
-- [Exploratory Data Analysis](#exploratory_data_analysis)
-- [Data Analysis](#data_analysis)
+- [Data Analysis](#data_scraping)
 - [Results/Findings](#results/findings)
 - [Recommendations](#recommendations)
+
 ### Project Overview
+___
 This Data Analysis project aims to scrape information about the books from bookstoscrape.com website.
 
 
 ### Data Sources
+___
 The major source of information for this project is bookstoscrape.com website
 
 ### Tools Used
+___
 - Python - Used for Data Scraping
 - Microsoft Excel - used for Data cleaning aand storage.
 
-### Data Cleaning/Preparation
-
-
-
-### Exploratory Data Analysis
-
 
 ### Data Scraping
-
-
+___
 ```python
 from bs4 import BeautifulSoup
 import requests
@@ -73,3 +68,4 @@ df.to_csv('books.csv')
 - This was just a data scraping project, however, there would be need for further data cleaning which is beyond the scope of this project.
 
 ### References
+www.bookstoscrape.com
